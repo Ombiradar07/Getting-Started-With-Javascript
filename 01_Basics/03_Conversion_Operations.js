@@ -69,6 +69,7 @@ console.log("1" + 2)     // output => 12
 console.log(1 + "2")     // output => 12
 console.log("1" + 2 + 2) // output => 122
 console.log(1 + 2 + "2") // output => 32
+console.log(1 + 3 + "2" + 2 + 2) // output => 4222
 
 /*  Rule: if the string is present at start then evrything is converted into string
     Rule: if string present at end the first specific operation is done and then converted to string
