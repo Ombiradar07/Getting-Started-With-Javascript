@@ -38,6 +38,8 @@ console.log(typeof anotherId);
 
 
 /*
+    ********** RETURN TYPES OF ALL DATATYPES************
+
      Primitive Datatypes
        Number => number
        String  => string
